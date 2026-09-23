@@ -26,7 +26,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:gmuecpj0iw0i8@fmredhawks-schedule
-DTSTAMP:20260923T192116Z
+DTSTAMP:20260923T192329Z
 DTSTART;TZID=America/Chicago:20260922T190200
 DTEND;TZID=America/Chicago:20260922T220200
 SUMMARY:RedHawks vs. Explorers — W\, 8-3
@@ -39,7 +39,7 @@ DESCRIPTION:★ Family Fare Ticket Deal — Bring a Family Fare receipt of
 END:VEVENT
 BEGIN:VEVENT
 UID:gmuecg1bmffo6@fmredhawks-schedule
-DTSTAMP:20260923T192116Z
+DTSTAMP:20260923T192329Z
 DTSTART;TZID=America/Chicago:20260923T190500
 DTEND;TZID=America/Chicago:20260923T220500
 SUMMARY:RedHawks vs. Canaries
@@ -51,7 +51,7 @@ DESCRIPTION:Promo Giveaway Night\n★ T-Shirt Giveaway — First 1\,000 fan
 END:VEVENT
 BEGIN:VEVENT
 UID:gmuehnj2gxa2o@fmredhawks-schedule
-DTSTAMP:20260923T192116Z
+DTSTAMP:20260923T192329Z
 DTSTART;TZID=America/Chicago:20260923T190500
 DTEND;TZID=America/Chicago:20260923T220500
 SUMMARY:RedHawks vs. Canaries (Game 2)
@@ -63,7 +63,7 @@ DESCRIPTION:Promo Giveaway Night\n★ Family Fare Ticket Deal — Bring a F
 END:VEVENT
 BEGIN:VEVENT
 UID:gmueck0u17t73@fmredhawks-schedule
-DTSTAMP:20260923T192116Z
+DTSTAMP:20260923T192329Z
 DTSTART;TZID=America/Chicago:20260924T160500
 DTEND;TZID=America/Chicago:20260924T190500
 SUMMARY:RedHawks @ Cougars
@@ -73,7 +73,7 @@ DESCRIPTION:Watch: https://aabaseball.tv\nLive Stats: https://pro.iscorecen
 END:VEVENT
 BEGIN:VEVENT
 UID:gmueg4wrtjmtm@fmredhawks-schedule
-DTSTAMP:20260923T192116Z
+DTSTAMP:20260923T192329Z
 DTSTART;TZID=America/Chicago:20260924T180500
 DTEND;TZID=America/Chicago:20260924T210500
 SUMMARY:RedHawks @ Cougars (Game 2)
