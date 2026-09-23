@@ -26,20 +26,20 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:gmuei41bmb2jx@fmredhawks-schedule
-DTSTAMP:20260923T193416Z
+DTSTAMP:20260923T194811Z
 DTSTART;TZID=America/Chicago:20260921T190500
 DTEND;TZID=America/Chicago:20260921T220500
 SUMMARY:RedHawks @ Goldeyes — L\, 4-11
-LOCATION:Blue Cross Park\, Winnipeg\, MB
+LOCATION:Blue Cross Park • Winnipeg\, MB
 DESCRIPTION:Box Score: https://pro.iscorecentral.com/AAPB/scoreboard
 END:VEVENT
 BEGIN:VEVENT
 UID:gmuecpj0iw0i8@fmredhawks-schedule
-DTSTAMP:20260923T193416Z
+DTSTAMP:20260923T194811Z
 DTSTART;TZID=America/Chicago:20260922T190200
 DTEND;TZID=America/Chicago:20260922T220200
 SUMMARY:RedHawks vs. Explorers — W\, 8-3
-LOCATION:Newman Outdoor Field\, Fargo\, ND
+LOCATION:Newman Outdoor Field • Fargo\, ND
 DESCRIPTION:★ Family Fare Ticket Deal — Bring a Family Fare receipt of 
  $25 or more to the RedHawks Ticket Office and receive two 1B Bleacher tick
  ets for any Sunday\, Monday or Tuesday RedHawks home game.\nBox Score: htt
@@ -48,11 +48,11 @@ DESCRIPTION:★ Family Fare Ticket Deal — Bring a Family Fare receipt of
 END:VEVENT
 BEGIN:VEVENT
 UID:gmuecg1bmffo6@fmredhawks-schedule
-DTSTAMP:20260923T193416Z
-DTSTART;TZID=America/Chicago:20260923T190500
-DTEND;TZID=America/Chicago:20260923T220500
+DTSTAMP:20260923T194811Z
+DTSTART;TZID=America/Chicago:20260923T170500
+DTEND;TZID=America/Chicago:20260923T200500
 SUMMARY:RedHawks vs. Canaries
-LOCATION:Newman Outdoor Field\, Fargo\, ND
+LOCATION:Newman Outdoor Field • Fargo\, ND
 DESCRIPTION:Promo Giveaway Night\n★ T-Shirt Giveaway — First 1\,000 fan
  s receive a RedHawks t-shirt thanks to CI Sport.\n★ Test Promotion — W
  e going to do something\nBuy Tickets: https://www.fmredhawks.com/buyticket
@@ -60,11 +60,23 @@ DESCRIPTION:Promo Giveaway Night\n★ T-Shirt Giveaway — First 1\,000 fan
 END:VEVENT
 BEGIN:VEVENT
 UID:gmuehnj2gxa2o@fmredhawks-schedule
-DTSTAMP:20260923T193416Z
+DTSTAMP:20260923T194811Z
 DTSTART;TZID=America/Chicago:20260923T190500
 DTEND;TZID=America/Chicago:20260923T220500
 SUMMARY:RedHawks vs. Canaries (Game 2)
-LOCATION:Newman Outdoor Field\, Fargo\, ND
+LOCATION:Newman Outdoor Field • Fargo\, ND
+DESCRIPTION:★ Family Fare Ticket Deal — Bring a Family Fare receipt of 
+ $25 or more to the RedHawks Ticket Office and receive two 1B Bleacher tick
+ ets for any Sunday\, Monday or Tuesday RedHawks home game.\nBuy Tickets: h
+ ttps://www.fmredhawks.com/buytickets
+END:VEVENT
+BEGIN:VEVENT
+UID:gmueim24dl7k8@fmredhawks-schedule
+DTSTAMP:20260923T194811Z
+DTSTART;TZID=America/Chicago:20260924T190200
+DTEND;TZID=America/Chicago:20260924T220200
+SUMMARY:RedHawks vs. Canaries
+LOCATION:Newman Outdoor Field • Fargo\, ND
 DESCRIPTION:★ Family Fare Ticket Deal — Bring a Family Fare receipt of 
  $25 or more to the RedHawks Ticket Office and receive two 1B Bleacher tick
  ets for any Sunday\, Monday or Tuesday RedHawks home game.\nBuy Tickets: h
@@ -72,21 +84,21 @@ DESCRIPTION:★ Family Fare Ticket Deal — Bring a Family Fare receipt of
 END:VEVENT
 BEGIN:VEVENT
 UID:gmueck0u17t73@fmredhawks-schedule
-DTSTAMP:20260923T193416Z
-DTSTART;TZID=America/Chicago:20260924T160500
-DTEND;TZID=America/Chicago:20260924T190500
+DTSTAMP:20260923T194811Z
+DTSTART;TZID=America/Chicago:20260925T160500
+DTEND;TZID=America/Chicago:20260925T190500
 SUMMARY:RedHawks @ Cougars
-LOCATION:Northwestern Medicine Field\, Geneva\, IL
+LOCATION:Northwestern Medicine Field • Geneva\, IL
 DESCRIPTION:Watch: https://aabaseball.tv\nLive Stats: https://pro.iscorecen
  tral.com/AAPB/scoreboard\nListen: https://740thefan.com
 END:VEVENT
 BEGIN:VEVENT
 UID:gmueg4wrtjmtm@fmredhawks-schedule
-DTSTAMP:20260923T193416Z
-DTSTART;TZID=America/Chicago:20260924T180500
-DTEND;TZID=America/Chicago:20260924T210500
+DTSTAMP:20260923T194811Z
+DTSTART;TZID=America/Chicago:20260925T180500
+DTEND;TZID=America/Chicago:20260925T210500
 SUMMARY:RedHawks @ Cougars (Game 2)
-LOCATION:Northwestern Medicine Field\, Geneva\, IL
+LOCATION:Northwestern Medicine Field • Geneva\, IL
 DESCRIPTION:Watch: https://aabaseball.tv\nLive Stats: https://pro.iscorecen
  tral.com/AAPB/scoreboard\nListen: https://740thefan.com
 END:VEVENT
