@@ -26,7 +26,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:gmueldmf9rjy6@fmredhawks-schedule
-DTSTAMP:20260923T212134Z
+DTSTAMP:20260923T212818Z
 DTSTART;TZID=America/Chicago:20260514T190600
 DTEND;TZID=America/Chicago:20260514T220600
 SUMMARY:RedHawks @ Railroaders — W\, 4-3
@@ -36,7 +36,7 @@ DESCRIPTION:Box Score: https://pro.iscorecentral.com/AAPB/games/4f30170c-3e
 END:VEVENT
 BEGIN:VEVENT
 UID:gmueldmf9bgrm@fmredhawks-schedule
-DTSTAMP:20260923T212134Z
+DTSTAMP:20260923T212818Z
 DTSTART;TZID=America/Chicago:20260515T190600
 DTEND;TZID=America/Chicago:20260515T220600
 SUMMARY:RedHawks @ Railroaders — W\, 12-5
@@ -46,7 +46,7 @@ DESCRIPTION:Box Score: https://pro.iscorecentral.com/AAPB/games/e46e318a-96
 END:VEVENT
 BEGIN:VEVENT
 UID:gmueldmf98dij@fmredhawks-schedule
-DTSTAMP:20260923T212134Z
+DTSTAMP:20260923T212818Z
 DTSTART;TZID=America/Chicago:20260516T190600
 DTEND;TZID=America/Chicago:20260516T220600
 SUMMARY:RedHawks @ Railroaders — W\, 14-4
@@ -56,7 +56,7 @@ DESCRIPTION:Box Score: https://pro.iscorecentral.com/AAPB/games/fcd7a249-28
 END:VEVENT
 BEGIN:VEVENT
 UID:gmueldmf9w401@fmredhawks-schedule
-DTSTAMP:20260923T212134Z
+DTSTAMP:20260923T212818Z
 DTSTART;TZID=America/Chicago:20260517T180600
 DTEND;TZID=America/Chicago:20260517T210600
 SUMMARY:RedHawks @ Railroaders — W\, 12-9
@@ -66,7 +66,7 @@ DESCRIPTION:Box Score: https://pro.iscorecentral.com/AAPB/games/f9ea7d40-d4
 END:VEVENT
 BEGIN:VEVENT
 UID:gmueldmf9dawq@fmredhawks-schedule
-DTSTAMP:20260923T212134Z
+DTSTAMP:20260923T212818Z
 DTSTART;TZID=America/Chicago:20260518T110000
 DTEND;TZID=America/Chicago:20260518T140000
 SUMMARY:RedHawks @ Railroaders — L\, 6-7
@@ -76,7 +76,7 @@ DESCRIPTION:Box Score: https://pro.iscorecentral.com/AAPB/games/e571e5d2-ed
 END:VEVENT
 BEGIN:VEVENT
 UID:gmueldmf95b80@fmredhawks-schedule
-DTSTAMP:20260923T212134Z
+DTSTAMP:20260923T212818Z
 DTSTART;TZID=America/Chicago:20260519T190600
 DTEND;TZID=America/Chicago:20260519T220600
 SUMMARY:RedHawks @ Railroaders — L\, 1-5
@@ -86,7 +86,7 @@ DESCRIPTION:Box Score: https://pro.iscorecentral.com/AAPB/games/ab9964e6-8b
 END:VEVENT
 BEGIN:VEVENT
 UID:gmueldmf9uh7q@fmredhawks-schedule
-DTSTAMP:20260923T212134Z
+DTSTAMP:20260923T212818Z
 DTSTART;TZID=America/Chicago:20260520T190600
 DTEND;TZID=America/Chicago:20260520T220600
 SUMMARY:RedHawks @ Railroaders — L\, 12-14
@@ -96,17 +96,18 @@ DESCRIPTION:Box Score: https://pro.iscorecentral.com/AAPB/games/7a40c7a7-2e
 END:VEVENT
 BEGIN:VEVENT
 UID:gmueldmf9qegs@fmredhawks-schedule
-DTSTAMP:20260923T212134Z
+DTSTAMP:20260923T212818Z
 DTSTART;TZID=America/Chicago:20260523T180000
 DTEND;TZID=America/Chicago:20260523T210000
 SUMMARY:RedHawks vs. Cougars — L\, 2-4
 LOCATION:Newman Outdoor Field • Fargo\, ND
 DESCRIPTION:Box Score: https://pro.iscorecentral.com/AAPB/games/e0c64076-bd
- 55-41c9-a697-b451b4484634
+ 55-41c9-a697-b451b4484634\nRecap: https://www.fmredhawks.com/news/d9b5vcze
+ 2qzs10duoixi3fot9a0o5b
 END:VEVENT
 BEGIN:VEVENT
 UID:gmueldmf98biz@fmredhawks-schedule
-DTSTAMP:20260923T212134Z
+DTSTAMP:20260923T212818Z
 DTSTART;TZID=America/Chicago:20260523T210000
 DTEND;TZID=America/Chicago:20260524T000000
 SUMMARY:RedHawks vs. Cougars (Game 2) — L\, 6-7
@@ -116,7 +117,7 @@ DESCRIPTION:Box Score: https://pro.iscorecentral.com/AAPB/games/b17ab80f-27
 END:VEVENT
 BEGIN:VEVENT
 UID:gmueldmf9c9ws@fmredhawks-schedule
-DTSTAMP:20260923T212134Z
+DTSTAMP:20260923T212818Z
 DTSTART;TZID=America/Chicago:20260524T130000
 DTEND;TZID=America/Chicago:20260524T160000
 SUMMARY:RedHawks vs. Cougars — W\, 12-7
@@ -126,7 +127,7 @@ DESCRIPTION:Box Score: https://pro.iscorecentral.com/AAPB/games/e95ff5df-a6
 END:VEVENT
 BEGIN:VEVENT
 UID:gmueldmf9ul4m@fmredhawks-schedule
-DTSTAMP:20260923T212134Z
+DTSTAMP:20260923T212818Z
 DTSTART;TZID=America/Chicago:20260526T190200
 DTEND;TZID=America/Chicago:20260526T220200
 SUMMARY:RedHawks vs. DockHounds — L\, 1-14
@@ -136,7 +137,7 @@ DESCRIPTION:Box Score: https://pro.iscorecentral.com/AAPB/games/99fa2722-79
 END:VEVENT
 BEGIN:VEVENT
 UID:gmueldmf9z2l1@fmredhawks-schedule
-DTSTAMP:20260923T212134Z
+DTSTAMP:20260923T212818Z
 DTSTART;TZID=America/Chicago:20260527T190200
 DTEND;TZID=America/Chicago:20260527T220200
 SUMMARY:RedHawks vs. DockHounds — L\, 3-5
@@ -146,7 +147,7 @@ DESCRIPTION:Box Score: https://pro.iscorecentral.com/AAPB/games/7386bd8c-42
 END:VEVENT
 BEGIN:VEVENT
 UID:gmueldmf98pqj@fmredhawks-schedule
-DTSTAMP:20260923T212134Z
+DTSTAMP:20260923T212818Z
 DTSTART;TZID=America/Chicago:20260528T190200
 DTEND;TZID=America/Chicago:20260528T220200
 SUMMARY:RedHawks vs. DockHounds — L\, 4-20
@@ -156,7 +157,7 @@ DESCRIPTION:Box Score: https://pro.iscorecentral.com/AAPB/games/e7a4e9c0-40
 END:VEVENT
 BEGIN:VEVENT
 UID:gmueldmf9julx@fmredhawks-schedule
-DTSTAMP:20260923T212134Z
+DTSTAMP:20260923T212818Z
 DTSTART;TZID=America/Chicago:20260529T190500
 DTEND;TZID=America/Chicago:20260529T220500
 SUMMARY:RedHawks @ Canaries — W\, 14-9
@@ -166,7 +167,7 @@ DESCRIPTION:Box Score: https://pro.iscorecentral.com/AAPB/games/2cc09cd5-ea
 END:VEVENT
 BEGIN:VEVENT
 UID:gmueldmf9fxmm@fmredhawks-schedule
-DTSTAMP:20260923T212134Z
+DTSTAMP:20260923T212818Z
 DTSTART;TZID=America/Chicago:20260530T173500
 DTEND;TZID=America/Chicago:20260530T203500
 SUMMARY:RedHawks @ Canaries — L\, 3-9
@@ -176,7 +177,7 @@ DESCRIPTION:Box Score: https://pro.iscorecentral.com/AAPB/games/87c2171a-c2
 END:VEVENT
 BEGIN:VEVENT
 UID:gmueldmf9y6v3@fmredhawks-schedule
-DTSTAMP:20260923T212134Z
+DTSTAMP:20260923T212818Z
 DTSTART;TZID=America/Chicago:20260531T160500
 DTEND;TZID=America/Chicago:20260531T190500
 SUMMARY:RedHawks @ Canaries — W\, 8-4
@@ -186,7 +187,7 @@ DESCRIPTION:Box Score: https://pro.iscorecentral.com/AAPB/games/e182893b-16
 END:VEVENT
 BEGIN:VEVENT
 UID:gmueldmf9wqo8@fmredhawks-schedule
-DTSTAMP:20260923T212134Z
+DTSTAMP:20260923T212818Z
 DTSTART;TZID=America/Chicago:20260602T183500
 DTEND;TZID=America/Chicago:20260602T213500
 SUMMARY:RedHawks @ Monarchs — L\, 0-1
@@ -196,7 +197,7 @@ DESCRIPTION:Box Score: https://pro.iscorecentral.com/AAPB/games/8b75bcfc-aa
 END:VEVENT
 BEGIN:VEVENT
 UID:gmueldmf9aw15@fmredhawks-schedule
-DTSTAMP:20260923T212134Z
+DTSTAMP:20260923T212818Z
 DTSTART;TZID=America/Chicago:20260603T130500
 DTEND;TZID=America/Chicago:20260603T160500
 SUMMARY:RedHawks @ Monarchs — L\, 2-3
@@ -206,7 +207,7 @@ DESCRIPTION:Box Score: https://pro.iscorecentral.com/AAPB/games/fd9d0c17-78
 END:VEVENT
 BEGIN:VEVENT
 UID:gmueldmf9px8e@fmredhawks-schedule
-DTSTAMP:20260923T212134Z
+DTSTAMP:20260923T212818Z
 DTSTART;TZID=America/Chicago:20260604T183500
 DTEND;TZID=America/Chicago:20260604T213500
 SUMMARY:RedHawks @ Monarchs — L\, 5-6
@@ -216,7 +217,7 @@ DESCRIPTION:Box Score: https://pro.iscorecentral.com/AAPB/games/61719241-b7
 END:VEVENT
 BEGIN:VEVENT
 UID:gmueldmf9e8ui@fmredhawks-schedule
-DTSTAMP:20260923T212134Z
+DTSTAMP:20260923T212818Z
 DTSTART;TZID=America/Chicago:20260605T183000
 DTEND;TZID=America/Chicago:20260605T213000
 SUMMARY:RedHawks @ Milkmen — L\, 3-4
@@ -226,7 +227,7 @@ DESCRIPTION:Box Score: https://pro.iscorecentral.com/AAPB/games/d5a4ee51-9a
 END:VEVENT
 BEGIN:VEVENT
 UID:gmueldmf99kld@fmredhawks-schedule
-DTSTAMP:20260923T212134Z
+DTSTAMP:20260923T212818Z
 DTSTART;TZID=America/Chicago:20260606T180000
 DTEND;TZID=America/Chicago:20260606T210000
 SUMMARY:RedHawks @ Milkmen — L\, 0-6
@@ -236,7 +237,7 @@ DESCRIPTION:Box Score: https://pro.iscorecentral.com/AAPB/games/02204a99-05
 END:VEVENT
 BEGIN:VEVENT
 UID:gmueldmf9i0gd@fmredhawks-schedule
-DTSTAMP:20260923T212134Z
+DTSTAMP:20260923T212818Z
 DTSTART;TZID=America/Chicago:20260607T130000
 DTEND;TZID=America/Chicago:20260607T160000
 SUMMARY:RedHawks @ Milkmen — W\, 5-2
@@ -246,7 +247,7 @@ DESCRIPTION:Box Score: https://pro.iscorecentral.com/AAPB/games/f1a0b909-a1
 END:VEVENT
 BEGIN:VEVENT
 UID:gmueldmf9635x@fmredhawks-schedule
-DTSTAMP:20260923T212134Z
+DTSTAMP:20260923T212818Z
 DTSTART;TZID=America/Chicago:20260609T190200
 DTEND;TZID=America/Chicago:20260609T220200
 SUMMARY:RedHawks vs. Monarchs — W\, 16-6
@@ -256,7 +257,7 @@ DESCRIPTION:Box Score: https://pro.iscorecentral.com/AAPB/games/cec93d5c-6d
 END:VEVENT
 BEGIN:VEVENT
 UID:gmueldmf9j1ci@fmredhawks-schedule
-DTSTAMP:20260923T212134Z
+DTSTAMP:20260923T212818Z
 DTSTART;TZID=America/Chicago:20260610T190200
 DTEND;TZID=America/Chicago:20260610T220200
 SUMMARY:RedHawks vs. Monarchs — W\, 12-5
@@ -266,7 +267,7 @@ DESCRIPTION:Box Score: https://pro.iscorecentral.com/AAPB/games/24b16236-e6
 END:VEVENT
 BEGIN:VEVENT
 UID:gmueldmf9j53q@fmredhawks-schedule
-DTSTAMP:20260923T212134Z
+DTSTAMP:20260923T212818Z
 DTSTART;TZID=America/Chicago:20260611T123000
 DTEND;TZID=America/Chicago:20260611T153000
 SUMMARY:RedHawks vs. Monarchs — L\, 9-25
@@ -276,7 +277,7 @@ DESCRIPTION:Box Score: https://pro.iscorecentral.com/AAPB/games/5381dc89-e1
 END:VEVENT
 BEGIN:VEVENT
 UID:gmueldmf9ev2c@fmredhawks-schedule
-DTSTAMP:20260923T212134Z
+DTSTAMP:20260923T212818Z
 DTSTART;TZID=America/Chicago:20260612T190200
 DTEND;TZID=America/Chicago:20260612T220200
 SUMMARY:RedHawks vs. Goldeyes — W\, 10-2
@@ -286,7 +287,7 @@ DESCRIPTION:Box Score: https://pro.iscorecentral.com/AAPB/games/2d44c98d-fe
 END:VEVENT
 BEGIN:VEVENT
 UID:gmueldmf9y528@fmredhawks-schedule
-DTSTAMP:20260923T212134Z
+DTSTAMP:20260923T212818Z
 DTSTART;TZID=America/Chicago:20260613T180000
 DTEND;TZID=America/Chicago:20260613T210000
 SUMMARY:RedHawks vs. Goldeyes — W\, 4-3
@@ -296,7 +297,7 @@ DESCRIPTION:Box Score: https://pro.iscorecentral.com/AAPB/games/12983bfd-15
 END:VEVENT
 BEGIN:VEVENT
 UID:gmueldmf97mo6@fmredhawks-schedule
-DTSTAMP:20260923T212134Z
+DTSTAMP:20260923T212818Z
 DTSTART;TZID=America/Chicago:20260614T130000
 DTEND;TZID=America/Chicago:20260614T160000
 SUMMARY:RedHawks vs. Goldeyes — L\, 10-13
@@ -306,7 +307,7 @@ DESCRIPTION:Box Score: https://pro.iscorecentral.com/AAPB/games/4fea2a5a-40
 END:VEVENT
 BEGIN:VEVENT
 UID:gmueldmf98ith@fmredhawks-schedule
-DTSTAMP:20260923T212134Z
+DTSTAMP:20260923T212818Z
 DTSTART;TZID=America/Chicago:20260615T190200
 DTEND;TZID=America/Chicago:20260615T220200
 SUMMARY:RedHawks vs. Goldeyes — W\, 17-7
@@ -316,7 +317,7 @@ DESCRIPTION:Completed 9/1\nBox Score: https://pro.iscorecentral.com/AAPB/ga
 END:VEVENT
 BEGIN:VEVENT
 UID:gmueldmf9hdb1@fmredhawks-schedule
-DTSTAMP:20260923T212134Z
+DTSTAMP:20260923T212818Z
 DTSTART;TZID=America/Chicago:20260616T183500
 DTEND;TZID=America/Chicago:20260616T213500
 SUMMARY:RedHawks @ DockHounds — L\, 8-16
@@ -326,7 +327,7 @@ DESCRIPTION:Box Score: https://pro.iscorecentral.com/AAPB/games/961c7ab8-cc
 END:VEVENT
 BEGIN:VEVENT
 UID:gmueldmf9j3b1@fmredhawks-schedule
-DTSTAMP:20260923T212134Z
+DTSTAMP:20260923T212818Z
 DTSTART;TZID=America/Chicago:20260618T153000
 DTEND;TZID=America/Chicago:20260618T183000
 SUMMARY:RedHawks @ DockHounds — W\, 4-1
@@ -336,7 +337,7 @@ DESCRIPTION:Box Score: https://pro.iscorecentral.com/AAPB/games/367346e9-0a
 END:VEVENT
 BEGIN:VEVENT
 UID:gmueldmf942mg@fmredhawks-schedule
-DTSTAMP:20260923T212134Z
+DTSTAMP:20260923T212818Z
 DTSTART;TZID=America/Chicago:20260618T183500
 DTEND;TZID=America/Chicago:20260618T213500
 SUMMARY:RedHawks @ DockHounds (Game 2) — W\, 8-7
@@ -346,27 +347,27 @@ DESCRIPTION:Box Score: https://pro.iscorecentral.com/AAPB/games/7db584e0-f1
 END:VEVENT
 BEGIN:VEVENT
 UID:gmueldmf9ob1h@fmredhawks-schedule
-DTSTAMP:20260923T212134Z
+DTSTAMP:20260923T212818Z
 DTSTART;TZID=America/Chicago:20260619T184500
 DTEND;TZID=America/Chicago:20260619T214500
-SUMMARY:RedHawks @ SouthShore RailCats — L\, 3-6
+SUMMARY:RedHawks @ RailCats — L\, 3-6
 LOCATION:Steel Yard • Gary\, IN
 DESCRIPTION:Box Score: https://pro.iscorecentral.com/AAPB/games/b48bcc9e-7b
  c6-42d5-9a55-1c008b352395
 END:VEVENT
 BEGIN:VEVENT
 UID:gmueldmf9ts23@fmredhawks-schedule
-DTSTAMP:20260923T212134Z
+DTSTAMP:20260923T212818Z
 DTSTART;TZID=America/Chicago:20260620T160000
 DTEND;TZID=America/Chicago:20260620T190000
-SUMMARY:RedHawks @ SouthShore RailCats — W\, 5-4
+SUMMARY:RedHawks @ RailCats — W\, 5-4
 LOCATION:Steel Yard • Gary\, IN
 DESCRIPTION:Box Score: https://pro.iscorecentral.com/AAPB/games/63489522-82
  af-4aa9-9f07-7efae6281d68
 END:VEVENT
 BEGIN:VEVENT
 UID:gmueldmf9b09v@fmredhawks-schedule
-DTSTAMP:20260923T212134Z
+DTSTAMP:20260923T212818Z
 DTSTART;TZID=America/Chicago:20260622T190200
 DTEND;TZID=America/Chicago:20260622T220200
 SUMMARY:RedHawks vs. Saltdogs — W\, 5-2
@@ -376,7 +377,7 @@ DESCRIPTION:Box Score: https://pro.iscorecentral.com/AAPB/games/3f726882-30
 END:VEVENT
 BEGIN:VEVENT
 UID:gmueldmf9q73a@fmredhawks-schedule
-DTSTAMP:20260923T212134Z
+DTSTAMP:20260923T212818Z
 DTSTART;TZID=America/Chicago:20260623T190200
 DTEND;TZID=America/Chicago:20260623T220200
 SUMMARY:RedHawks vs. Saltdogs — W\, 4-3
@@ -386,7 +387,7 @@ DESCRIPTION:Box Score: https://pro.iscorecentral.com/AAPB/games/c7765737-ef
 END:VEVENT
 BEGIN:VEVENT
 UID:gmueldmf9k3sn@fmredhawks-schedule
-DTSTAMP:20260923T212134Z
+DTSTAMP:20260923T212818Z
 DTSTART;TZID=America/Chicago:20260624T190200
 DTEND;TZID=America/Chicago:20260624T220200
 SUMMARY:RedHawks vs. Saltdogs — L\, 6-7
@@ -396,7 +397,7 @@ DESCRIPTION:Box Score: https://pro.iscorecentral.com/AAPB/games/390d430c-0d
 END:VEVENT
 BEGIN:VEVENT
 UID:gmueldmf9l81t@fmredhawks-schedule
-DTSTAMP:20260923T212134Z
+DTSTAMP:20260923T212818Z
 DTSTART;TZID=America/Chicago:20260626T190000
 DTEND;TZID=America/Chicago:20260626T220000
 SUMMARY:RedHawks @ Goldeyes — L\, 4-7
@@ -406,7 +407,7 @@ DESCRIPTION:Box Score: https://pro.iscorecentral.com/AAPB/games/b21338c6-6c
 END:VEVENT
 BEGIN:VEVENT
 UID:gmueldmf9fa02@fmredhawks-schedule
-DTSTAMP:20260923T212134Z
+DTSTAMP:20260923T212818Z
 DTSTART;TZID=America/Chicago:20260627T180000
 DTEND;TZID=America/Chicago:20260627T210000
 SUMMARY:RedHawks @ Goldeyes — L\, 5-9
@@ -416,7 +417,7 @@ DESCRIPTION:Box Score: https://pro.iscorecentral.com/AAPB/games/33136cfe-69
 END:VEVENT
 BEGIN:VEVENT
 UID:gmueldmf9wppn@fmredhawks-schedule
-DTSTAMP:20260923T212134Z
+DTSTAMP:20260923T212818Z
 DTSTART;TZID=America/Chicago:20260628T130000
 DTEND;TZID=America/Chicago:20260628T160000
 SUMMARY:RedHawks @ Goldeyes — W\, 5-1
@@ -426,7 +427,7 @@ DESCRIPTION:Box Score: https://pro.iscorecentral.com/AAPB/games/ccaed63a-22
 END:VEVENT
 BEGIN:VEVENT
 UID:gmueldmf9vvdn@fmredhawks-schedule
-DTSTAMP:20260923T212134Z
+DTSTAMP:20260923T212818Z
 DTSTART;TZID=America/Chicago:20260629T183500
 DTEND;TZID=America/Chicago:20260629T213500
 SUMMARY:RedHawks @ Saltdogs — W\, 6-5
@@ -436,7 +437,7 @@ DESCRIPTION:Box Score: https://pro.iscorecentral.com/AAPB/games/8cde0bc6-db
 END:VEVENT
 BEGIN:VEVENT
 UID:gmueldmf9s4gn@fmredhawks-schedule
-DTSTAMP:20260923T212134Z
+DTSTAMP:20260923T212818Z
 DTSTART;TZID=America/Chicago:20260630T183500
 DTEND;TZID=America/Chicago:20260630T213500
 SUMMARY:RedHawks @ Saltdogs — W\, 9-6
@@ -446,7 +447,7 @@ DESCRIPTION:Box Score: https://pro.iscorecentral.com/AAPB/games/e1e82007-fb
 END:VEVENT
 BEGIN:VEVENT
 UID:gmueldmf9f4ov@fmredhawks-schedule
-DTSTAMP:20260923T212134Z
+DTSTAMP:20260923T212818Z
 DTSTART;TZID=America/Chicago:20260701T183500
 DTEND;TZID=America/Chicago:20260701T213500
 SUMMARY:RedHawks @ Saltdogs — L\, 3-5
@@ -456,7 +457,7 @@ DESCRIPTION:Box Score: https://pro.iscorecentral.com/AAPB/games/e7310ce7-96
 END:VEVENT
 BEGIN:VEVENT
 UID:gmueldmf9azkl@fmredhawks-schedule
-DTSTAMP:20260923T212134Z
+DTSTAMP:20260923T212818Z
 DTSTART;TZID=America/Chicago:20260703T190200
 DTEND;TZID=America/Chicago:20260703T220200
 SUMMARY:RedHawks vs. Monarchs — W\, 8-6
@@ -466,7 +467,7 @@ DESCRIPTION:Box Score: https://pro.iscorecentral.com/AAPB/games/53c767c5-b9
 END:VEVENT
 BEGIN:VEVENT
 UID:gmueldmf9gcqj@fmredhawks-schedule
-DTSTAMP:20260923T212134Z
+DTSTAMP:20260923T212818Z
 DTSTART;TZID=America/Chicago:20260704T145000
 DTEND;TZID=America/Chicago:20260704T175000
 SUMMARY:RedHawks vs. Monarchs — W\, 8-4
@@ -476,7 +477,7 @@ DESCRIPTION:Box Score: https://pro.iscorecentral.com/AAPB/games/361b3944-42
 END:VEVENT
 BEGIN:VEVENT
 UID:gmueldmf99o08@fmredhawks-schedule
-DTSTAMP:20260923T212134Z
+DTSTAMP:20260923T212818Z
 DTSTART;TZID=America/Chicago:20260705T130000
 DTEND;TZID=America/Chicago:20260705T160000
 SUMMARY:RedHawks vs. Monarchs — L\, 2-9
@@ -486,7 +487,7 @@ DESCRIPTION:Box Score: https://pro.iscorecentral.com/AAPB/games/2e812011-22
 END:VEVENT
 BEGIN:VEVENT
 UID:gmueldmf9fylo@fmredhawks-schedule
-DTSTAMP:20260923T212134Z
+DTSTAMP:20260923T212818Z
 DTSTART;TZID=America/Chicago:20260707T183500
 DTEND;TZID=America/Chicago:20260707T213500
 SUMMARY:RedHawks @ Explorers — W\, 5-4
@@ -496,7 +497,7 @@ DESCRIPTION:Box Score: https://pro.iscorecentral.com/AAPB/games/8b926993-5e
 END:VEVENT
 BEGIN:VEVENT
 UID:gmueldmf9gmwq@fmredhawks-schedule
-DTSTAMP:20260923T212134Z
+DTSTAMP:20260923T212818Z
 DTSTART;TZID=America/Chicago:20260708T183500
 DTEND;TZID=America/Chicago:20260708T213500
 SUMMARY:RedHawks @ Explorers — L\, 7-9
@@ -506,7 +507,7 @@ DESCRIPTION:Box Score: https://pro.iscorecentral.com/AAPB/games/e2665a1b-69
 END:VEVENT
 BEGIN:VEVENT
 UID:gmueldmf95he1@fmredhawks-schedule
-DTSTAMP:20260923T212134Z
+DTSTAMP:20260923T212818Z
 DTSTART;TZID=America/Chicago:20260709T183500
 DTEND;TZID=America/Chicago:20260709T213500
 SUMMARY:RedHawks @ Explorers — L\, 3-7
@@ -516,7 +517,7 @@ DESCRIPTION:Box Score: https://pro.iscorecentral.com/AAPB/games/dd3cce1d-b0
 END:VEVENT
 BEGIN:VEVENT
 UID:gmueldmf9wznp@fmredhawks-schedule
-DTSTAMP:20260923T212134Z
+DTSTAMP:20260923T212818Z
 DTSTART;TZID=America/Chicago:20260710T190200
 DTEND;TZID=America/Chicago:20260710T220200
 SUMMARY:RedHawks vs. Railroaders — W\, 5-4
@@ -526,7 +527,7 @@ DESCRIPTION:Box Score: https://pro.iscorecentral.com/AAPB/games/24f76d53-76
 END:VEVENT
 BEGIN:VEVENT
 UID:gmueldmf9zs0h@fmredhawks-schedule
-DTSTAMP:20260923T212134Z
+DTSTAMP:20260923T212818Z
 DTSTART;TZID=America/Chicago:20260711T180000
 DTEND;TZID=America/Chicago:20260711T210000
 SUMMARY:RedHawks vs. Railroaders — L\, 9-11
@@ -536,7 +537,7 @@ DESCRIPTION:Box Score: https://pro.iscorecentral.com/AAPB/games/cf956f6a-f7
 END:VEVENT
 BEGIN:VEVENT
 UID:gmueldmf9hl09@fmredhawks-schedule
-DTSTAMP:20260923T212134Z
+DTSTAMP:20260923T212818Z
 DTSTART;TZID=America/Chicago:20260712T130000
 DTEND;TZID=America/Chicago:20260712T160000
 SUMMARY:RedHawks vs. Railroaders — W\, 7-4
@@ -546,7 +547,7 @@ DESCRIPTION:Box Score: https://pro.iscorecentral.com/AAPB/games/92e45d9a-40
 END:VEVENT
 BEGIN:VEVENT
 UID:gmueldmf9qrs7@fmredhawks-schedule
-DTSTAMP:20260923T212134Z
+DTSTAMP:20260923T212818Z
 DTSTART;TZID=America/Chicago:20260717T190200
 DTEND;TZID=America/Chicago:20260717T220200
 SUMMARY:RedHawks vs. Dogs — W\, 20-11
@@ -556,7 +557,7 @@ DESCRIPTION:Box Score: https://pro.iscorecentral.com/AAPB/games/5af83c67-83
 END:VEVENT
 BEGIN:VEVENT
 UID:gmueldmf9jhal@fmredhawks-schedule
-DTSTAMP:20260923T212134Z
+DTSTAMP:20260923T212818Z
 DTSTART;TZID=America/Chicago:20260718T180000
 DTEND;TZID=America/Chicago:20260718T210000
 SUMMARY:RedHawks vs. Dogs — W\, 13-4
@@ -566,7 +567,7 @@ DESCRIPTION:Box Score: https://pro.iscorecentral.com/AAPB/games/405c9f75-81
 END:VEVENT
 BEGIN:VEVENT
 UID:gmueldmf9xbjg@fmredhawks-schedule
-DTSTAMP:20260923T212134Z
+DTSTAMP:20260923T212818Z
 DTSTART;TZID=America/Chicago:20260719T130000
 DTEND;TZID=America/Chicago:20260719T160000
 SUMMARY:RedHawks vs. Dogs — L\, 6-9
@@ -576,47 +577,47 @@ DESCRIPTION:Box Score: https://pro.iscorecentral.com/AAPB/games/f2ef76e7-10
 END:VEVENT
 BEGIN:VEVENT
 UID:gmueldmf9n9f4@fmredhawks-schedule
-DTSTAMP:20260923T212134Z
+DTSTAMP:20260923T212818Z
 DTSTART;TZID=America/Chicago:20260720T190200
 DTEND;TZID=America/Chicago:20260720T220200
-SUMMARY:RedHawks vs. SouthShore RailCats — W\, 7-6
+SUMMARY:RedHawks vs. RailCats — W\, 7-6
 LOCATION:Newman Outdoor Field • Fargo\, ND
 DESCRIPTION:Box Score: https://pro.iscorecentral.com/AAPB/games/a43fb347-4f
  1f-416d-8929-b93ce321a54f
 END:VEVENT
 BEGIN:VEVENT
 UID:gmueldmf9koqj@fmredhawks-schedule
-DTSTAMP:20260923T212134Z
+DTSTAMP:20260923T212818Z
 DTSTART;TZID=America/Chicago:20260721T173000
 DTEND;TZID=America/Chicago:20260721T203000
-SUMMARY:RedHawks vs. SouthShore RailCats — W\, 7-4
+SUMMARY:RedHawks vs. RailCats — W\, 7-4
 LOCATION:Newman Outdoor Field • Fargo\, ND
 DESCRIPTION:Box Score: https://pro.iscorecentral.com/AAPB/games/7c0f10c8-74
  bc-476a-bd3e-60875c330455
 END:VEVENT
 BEGIN:VEVENT
 UID:gmueldmf94kqw@fmredhawks-schedule
-DTSTAMP:20260923T212134Z
+DTSTAMP:20260923T212818Z
 DTSTART;TZID=America/Chicago:20260721T203000
 DTEND;TZID=America/Chicago:20260721T233000
-SUMMARY:RedHawks vs. SouthShore RailCats (Game 2) — W\, 10-9
+SUMMARY:RedHawks vs. RailCats (Game 2) — W\, 10-9
 LOCATION:Newman Outdoor Field • Fargo\, ND
 DESCRIPTION:Box Score: https://pro.iscorecentral.com/AAPB/games/778f8d56-10
  cd-4345-9af3-da35e4e0493c
 END:VEVENT
 BEGIN:VEVENT
 UID:gmueldmf9085x@fmredhawks-schedule
-DTSTAMP:20260923T212134Z
+DTSTAMP:20260923T212818Z
 DTSTART;TZID=America/Chicago:20260722T190200
 DTEND;TZID=America/Chicago:20260722T220200
-SUMMARY:RedHawks vs. SouthShore RailCats — W\, 4-3
+SUMMARY:RedHawks vs. RailCats — W\, 4-3
 LOCATION:Newman Outdoor Field • Fargo\, ND
 DESCRIPTION:Box Score: https://pro.iscorecentral.com/AAPB/games/980659c1-2b
  36-4f4b-9462-8e8a9b9929e5
 END:VEVENT
 BEGIN:VEVENT
 UID:gmueldmf9rmkd@fmredhawks-schedule
-DTSTAMP:20260923T212134Z
+DTSTAMP:20260923T212818Z
 DTSTART;TZID=America/Chicago:20260724T190000
 DTEND;TZID=America/Chicago:20260724T220000
 SUMMARY:RedHawks @ Goldeyes — W\, 5-4
@@ -626,7 +627,7 @@ DESCRIPTION:Box Score: https://pro.iscorecentral.com/AAPB/games/c4fddd01-0d
 END:VEVENT
 BEGIN:VEVENT
 UID:gmueldmf979a2@fmredhawks-schedule
-DTSTAMP:20260923T212134Z
+DTSTAMP:20260923T212818Z
 DTSTART;TZID=America/Chicago:20260725T180000
 DTEND;TZID=America/Chicago:20260725T210000
 SUMMARY:RedHawks @ Goldeyes — L\, 5-7
@@ -636,7 +637,7 @@ DESCRIPTION:Box Score: https://pro.iscorecentral.com/AAPB/games/e7ef6358-31
 END:VEVENT
 BEGIN:VEVENT
 UID:gmueldmf9v5q4@fmredhawks-schedule
-DTSTAMP:20260923T212134Z
+DTSTAMP:20260923T212818Z
 DTSTART;TZID=America/Chicago:20260726T130000
 DTEND;TZID=America/Chicago:20260726T160000
 SUMMARY:RedHawks @ Goldeyes — L\, 3-4
@@ -646,7 +647,7 @@ DESCRIPTION:Box Score: https://pro.iscorecentral.com/AAPB/games/1a29c4df-75
 END:VEVENT
 BEGIN:VEVENT
 UID:gmueldmf9va9t@fmredhawks-schedule
-DTSTAMP:20260923T212134Z
+DTSTAMP:20260923T212818Z
 DTSTART;TZID=America/Chicago:20260728T190200
 DTEND;TZID=America/Chicago:20260728T220200
 SUMMARY:RedHawks vs. Saltdogs — L\, 3-5
@@ -656,7 +657,7 @@ DESCRIPTION:Box Score: https://pro.iscorecentral.com/AAPB/games/4b3ca981-6b
 END:VEVENT
 BEGIN:VEVENT
 UID:gmueldmf93dur@fmredhawks-schedule
-DTSTAMP:20260923T212134Z
+DTSTAMP:20260923T212818Z
 DTSTART;TZID=America/Chicago:20260729T190200
 DTEND;TZID=America/Chicago:20260729T220200
 SUMMARY:RedHawks vs. Saltdogs — W\, 7-6
@@ -666,7 +667,7 @@ DESCRIPTION:Box Score: https://pro.iscorecentral.com/AAPB/games/cb3864ff-cb
 END:VEVENT
 BEGIN:VEVENT
 UID:gmueldmf9yxun@fmredhawks-schedule
-DTSTAMP:20260923T212134Z
+DTSTAMP:20260923T212818Z
 DTSTART;TZID=America/Chicago:20260730T123000
 DTEND;TZID=America/Chicago:20260730T153000
 SUMMARY:RedHawks vs. Saltdogs — W\, 8-2
@@ -676,7 +677,7 @@ DESCRIPTION:Box Score: https://pro.iscorecentral.com/AAPB/games/81ac57dc-c8
 END:VEVENT
 BEGIN:VEVENT
 UID:gmueldmf9i71e@fmredhawks-schedule
-DTSTAMP:20260923T212134Z
+DTSTAMP:20260923T212818Z
 DTSTART;TZID=America/Chicago:20260731T190200
 DTEND;TZID=America/Chicago:20260731T220200
 SUMMARY:RedHawks vs. Explorers — L\, 2-5
@@ -686,7 +687,7 @@ DESCRIPTION:Box Score: https://pro.iscorecentral.com/AAPB/games/b8069c47-e4
 END:VEVENT
 BEGIN:VEVENT
 UID:gmueldmf93xh7@fmredhawks-schedule
-DTSTAMP:20260923T212134Z
+DTSTAMP:20260923T212818Z
 DTSTART;TZID=America/Chicago:20260801T180000
 DTEND;TZID=America/Chicago:20260801T210000
 SUMMARY:RedHawks vs. Explorers — W\, 10-7
@@ -696,7 +697,7 @@ DESCRIPTION:Box Score: https://pro.iscorecentral.com/AAPB/games/dc5b0ffd-31
 END:VEVENT
 BEGIN:VEVENT
 UID:gmueldmf9yau6@fmredhawks-schedule
-DTSTAMP:20260923T212134Z
+DTSTAMP:20260923T212818Z
 DTSTART;TZID=America/Chicago:20260802T130000
 DTEND;TZID=America/Chicago:20260802T160000
 SUMMARY:RedHawks vs. Explorers — W\, 8-7
@@ -706,7 +707,7 @@ DESCRIPTION:Box Score: https://pro.iscorecentral.com/AAPB/games/e9a74931-7c
 END:VEVENT
 BEGIN:VEVENT
 UID:gmueldmf9uaiv@fmredhawks-schedule
-DTSTAMP:20260923T212134Z
+DTSTAMP:20260923T212818Z
 DTSTART;TZID=America/Chicago:20260804T183500
 DTEND;TZID=America/Chicago:20260804T213500
 SUMMARY:RedHawks @ Canaries — L\, 3-4
@@ -716,7 +717,7 @@ DESCRIPTION:Box Score: https://pro.iscorecentral.com/AAPB/games/95cdb7ca-75
 END:VEVENT
 BEGIN:VEVENT
 UID:gmueldmf94uw2@fmredhawks-schedule
-DTSTAMP:20260923T212134Z
+DTSTAMP:20260923T212818Z
 DTSTART;TZID=America/Chicago:20260805T183500
 DTEND;TZID=America/Chicago:20260805T213500
 SUMMARY:RedHawks @ Canaries — L\, 8-9
@@ -726,7 +727,7 @@ DESCRIPTION:Box Score: https://pro.iscorecentral.com/AAPB/games/bd380596-39
 END:VEVENT
 BEGIN:VEVENT
 UID:gmueldmf9k63a@fmredhawks-schedule
-DTSTAMP:20260923T212134Z
+DTSTAMP:20260923T212818Z
 DTSTART;TZID=America/Chicago:20260806T183500
 DTEND;TZID=America/Chicago:20260806T213500
 SUMMARY:RedHawks @ Canaries — W\, 14-8
@@ -736,7 +737,7 @@ DESCRIPTION:Box Score: https://pro.iscorecentral.com/AAPB/games/925c0e06-7a
 END:VEVENT
 BEGIN:VEVENT
 UID:gmueldmf9k9zi@fmredhawks-schedule
-DTSTAMP:20260923T212134Z
+DTSTAMP:20260923T212818Z
 DTSTART;TZID=America/Chicago:20260807T183500
 DTEND;TZID=America/Chicago:20260807T213500
 SUMMARY:RedHawks @ Monarchs — W\, 17-7
@@ -746,7 +747,7 @@ DESCRIPTION:Box Score: https://pro.iscorecentral.com/AAPB/games/9924c40d-d9
 END:VEVENT
 BEGIN:VEVENT
 UID:gmueldmf98bgw@fmredhawks-schedule
-DTSTAMP:20260923T212134Z
+DTSTAMP:20260923T212818Z
 DTSTART;TZID=America/Chicago:20260808T183500
 DTEND;TZID=America/Chicago:20260808T213500
 SUMMARY:RedHawks @ Monarchs — L\, 9-13
@@ -756,7 +757,7 @@ DESCRIPTION:Box Score: https://pro.iscorecentral.com/AAPB/games/6699f70c-11
 END:VEVENT
 BEGIN:VEVENT
 UID:gmueldmf9kn54@fmredhawks-schedule
-DTSTAMP:20260923T212134Z
+DTSTAMP:20260923T212818Z
 DTSTART;TZID=America/Chicago:20260809T130500
 DTEND;TZID=America/Chicago:20260809T160500
 SUMMARY:RedHawks @ Monarchs — W\, 6-5
@@ -766,7 +767,7 @@ DESCRIPTION:Box Score: https://pro.iscorecentral.com/AAPB/games/34157db0-0a
 END:VEVENT
 BEGIN:VEVENT
 UID:gmueldmf9gyu2@fmredhawks-schedule
-DTSTAMP:20260923T212134Z
+DTSTAMP:20260923T212818Z
 DTSTART;TZID=America/Chicago:20260811T190200
 DTEND;TZID=America/Chicago:20260811T220200
 SUMMARY:RedHawks vs. Explorers — L\, 4-7
@@ -776,7 +777,7 @@ DESCRIPTION:Box Score: https://pro.iscorecentral.com/AAPB/games/2ac71559-7a
 END:VEVENT
 BEGIN:VEVENT
 UID:gmueldmf91wmk@fmredhawks-schedule
-DTSTAMP:20260923T212134Z
+DTSTAMP:20260923T212818Z
 DTSTART;TZID=America/Chicago:20260812T190200
 DTEND;TZID=America/Chicago:20260812T220200
 SUMMARY:RedHawks vs. Explorers — W\, 9-1
@@ -786,7 +787,7 @@ DESCRIPTION:Box Score: https://pro.iscorecentral.com/AAPB/games/58be83c3-88
 END:VEVENT
 BEGIN:VEVENT
 UID:gmueldmf9j8rv@fmredhawks-schedule
-DTSTAMP:20260923T212134Z
+DTSTAMP:20260923T212818Z
 DTSTART;TZID=America/Chicago:20260813T123000
 DTEND;TZID=America/Chicago:20260813T153000
 SUMMARY:RedHawks vs. Explorers — L\, 2-5
@@ -796,7 +797,7 @@ DESCRIPTION:Box Score: https://pro.iscorecentral.com/AAPB/games/046c08db-fc
 END:VEVENT
 BEGIN:VEVENT
 UID:gmueldmf9m0g5@fmredhawks-schedule
-DTSTAMP:20260923T212134Z
+DTSTAMP:20260923T212818Z
 DTSTART;TZID=America/Chicago:20260814T190200
 DTEND;TZID=America/Chicago:20260814T220200
 SUMMARY:RedHawks vs. Canaries — W\, 4-3
@@ -806,7 +807,7 @@ DESCRIPTION:Box Score: https://pro.iscorecentral.com/AAPB/games/a5353c7e-b1
 END:VEVENT
 BEGIN:VEVENT
 UID:gmueldmf955a1@fmredhawks-schedule
-DTSTAMP:20260923T212134Z
+DTSTAMP:20260923T212818Z
 DTSTART;TZID=America/Chicago:20260815T180000
 DTEND;TZID=America/Chicago:20260815T210000
 SUMMARY:RedHawks vs. Canaries — L\, 10-12
@@ -816,7 +817,7 @@ DESCRIPTION:Box Score: https://pro.iscorecentral.com/AAPB/games/3fa20a85-b5
 END:VEVENT
 BEGIN:VEVENT
 UID:gmueldmf9n6zr@fmredhawks-schedule
-DTSTAMP:20260923T212134Z
+DTSTAMP:20260923T212818Z
 DTSTART;TZID=America/Chicago:20260816T130000
 DTEND;TZID=America/Chicago:20260816T160000
 SUMMARY:RedHawks vs. Canaries — L\, 4-13
@@ -826,7 +827,7 @@ DESCRIPTION:Box Score: https://pro.iscorecentral.com/AAPB/games/f70871d4-d3
 END:VEVENT
 BEGIN:VEVENT
 UID:gmueldmf9wltd@fmredhawks-schedule
-DTSTAMP:20260923T212134Z
+DTSTAMP:20260923T212818Z
 DTSTART;TZID=America/Chicago:20260817T190200
 DTEND;TZID=America/Chicago:20260817T220200
 SUMMARY:RedHawks vs. Canaries — W\, 7-1
@@ -836,7 +837,7 @@ DESCRIPTION:Box Score: https://pro.iscorecentral.com/AAPB/games/258343e8-b0
 END:VEVENT
 BEGIN:VEVENT
 UID:gmueldmf9bl9f@fmredhawks-schedule
-DTSTAMP:20260923T212134Z
+DTSTAMP:20260923T212818Z
 DTSTART;TZID=America/Chicago:20260818T183500
 DTEND;TZID=America/Chicago:20260818T213500
 SUMMARY:RedHawks @ Explorers — W\, 9-6
@@ -846,7 +847,7 @@ DESCRIPTION:Box Score: https://pro.iscorecentral.com/AAPB/games/17173f38-71
 END:VEVENT
 BEGIN:VEVENT
 UID:gmueldmf989d3@fmredhawks-schedule
-DTSTAMP:20260923T212134Z
+DTSTAMP:20260923T212818Z
 DTSTART;TZID=America/Chicago:20260819T183500
 DTEND;TZID=America/Chicago:20260819T213500
 SUMMARY:RedHawks @ Explorers — W\, 2-1
@@ -856,7 +857,7 @@ DESCRIPTION:Box Score: https://pro.iscorecentral.com/AAPB/games/f657b881-48
 END:VEVENT
 BEGIN:VEVENT
 UID:gmueldmf954e2@fmredhawks-schedule
-DTSTAMP:20260923T212134Z
+DTSTAMP:20260923T212818Z
 DTSTART;TZID=America/Chicago:20260820T183500
 DTEND;TZID=America/Chicago:20260820T213500
 SUMMARY:RedHawks @ Explorers — L\, 3-11
@@ -866,7 +867,7 @@ DESCRIPTION:Box Score: https://pro.iscorecentral.com/AAPB/games/2a7d993f-4d
 END:VEVENT
 BEGIN:VEVENT
 UID:gmueldmf94ojs@fmredhawks-schedule
-DTSTAMP:20260923T212134Z
+DTSTAMP:20260923T212818Z
 DTSTART;TZID=America/Chicago:20260821T190500
 DTEND;TZID=America/Chicago:20260821T220500
 SUMMARY:RedHawks @ Saltdogs — W\, 13-6
@@ -876,7 +877,7 @@ DESCRIPTION:Box Score: https://pro.iscorecentral.com/AAPB/games/adb74753-58
 END:VEVENT
 BEGIN:VEVENT
 UID:gmueldmf9c7lt@fmredhawks-schedule
-DTSTAMP:20260923T212134Z
+DTSTAMP:20260923T212818Z
 DTSTART;TZID=America/Chicago:20260822T180500
 DTEND;TZID=America/Chicago:20260822T210500
 SUMMARY:RedHawks @ Saltdogs — W\, 12-7
@@ -886,7 +887,7 @@ DESCRIPTION:Box Score: https://pro.iscorecentral.com/AAPB/games/cf17746b-c6
 END:VEVENT
 BEGIN:VEVENT
 UID:gmueldmf924xp@fmredhawks-schedule
-DTSTAMP:20260923T212134Z
+DTSTAMP:20260923T212818Z
 DTSTART;TZID=America/Chicago:20260823T130500
 DTEND;TZID=America/Chicago:20260823T160500
 SUMMARY:RedHawks @ Saltdogs — L\, 3-4
@@ -896,7 +897,7 @@ DESCRIPTION:Box Score: https://pro.iscorecentral.com/AAPB/games/6fbb80fe-d5
 END:VEVENT
 BEGIN:VEVENT
 UID:gmueldmf9lg1t@fmredhawks-schedule
-DTSTAMP:20260923T212134Z
+DTSTAMP:20260923T212818Z
 DTSTART;TZID=America/Chicago:20260825T190200
 DTEND;TZID=America/Chicago:20260825T220200
 SUMMARY:RedHawks vs. Canaries — L\, 12-13
@@ -906,7 +907,7 @@ DESCRIPTION:Box Score: https://pro.iscorecentral.com/AAPB/games/314c1eda-6f
 END:VEVENT
 BEGIN:VEVENT
 UID:gmueldmf944cv@fmredhawks-schedule
-DTSTAMP:20260923T212134Z
+DTSTAMP:20260923T212818Z
 DTSTART;TZID=America/Chicago:20260826T190200
 DTEND;TZID=America/Chicago:20260826T220200
 SUMMARY:RedHawks vs. Canaries — W\, 8-1
@@ -916,7 +917,7 @@ DESCRIPTION:Box Score: https://pro.iscorecentral.com/AAPB/games/0dc602db-71
 END:VEVENT
 BEGIN:VEVENT
 UID:gmueldmf9jcwn@fmredhawks-schedule
-DTSTAMP:20260923T212134Z
+DTSTAMP:20260923T212818Z
 DTSTART;TZID=America/Chicago:20260827T190200
 DTEND;TZID=America/Chicago:20260827T220200
 SUMMARY:RedHawks vs. Canaries — W\, 13-8
@@ -926,7 +927,7 @@ DESCRIPTION:Box Score: https://pro.iscorecentral.com/AAPB/games/2da3bfa2-20
 END:VEVENT
 BEGIN:VEVENT
 UID:gmueldmf9u5xn@fmredhawks-schedule
-DTSTAMP:20260923T212134Z
+DTSTAMP:20260923T212818Z
 DTSTART;TZID=America/Chicago:20260828T190200
 DTEND;TZID=America/Chicago:20260828T220200
 SUMMARY:RedHawks vs. Milkmen — L\, 1-2
@@ -936,7 +937,7 @@ DESCRIPTION:Box Score: https://pro.iscorecentral.com/AAPB/games/8492bb22-7f
 END:VEVENT
 BEGIN:VEVENT
 UID:gmueldmf9hfgc@fmredhawks-schedule
-DTSTAMP:20260923T212134Z
+DTSTAMP:20260923T212818Z
 DTSTART;TZID=America/Chicago:20260829T180000
 DTEND;TZID=America/Chicago:20260829T210000
 SUMMARY:RedHawks vs. Milkmen — L\, 3-9
@@ -946,7 +947,7 @@ DESCRIPTION:Box Score: https://pro.iscorecentral.com/AAPB/games/8813ff6d-a9
 END:VEVENT
 BEGIN:VEVENT
 UID:gmueldmf9ch1o@fmredhawks-schedule
-DTSTAMP:20260923T212134Z
+DTSTAMP:20260923T212818Z
 DTSTART;TZID=America/Chicago:20260830T130000
 DTEND;TZID=America/Chicago:20260830T160000
 SUMMARY:RedHawks vs. Milkmen — L\, 6-10
@@ -956,7 +957,7 @@ DESCRIPTION:Box Score: https://pro.iscorecentral.com/AAPB/games/fcb9a86c-72
 END:VEVENT
 BEGIN:VEVENT
 UID:gmueldmf93c9e@fmredhawks-schedule
-DTSTAMP:20260923T212134Z
+DTSTAMP:20260923T212818Z
 DTSTART;TZID=America/Chicago:20260901T190200
 DTEND;TZID=America/Chicago:20260901T220200
 SUMMARY:RedHawks vs. Goldeyes — L\, 0-8
@@ -966,7 +967,7 @@ DESCRIPTION:Box Score: https://pro.iscorecentral.com/AAPB/games/daca9211-6e
 END:VEVENT
 BEGIN:VEVENT
 UID:gmueldmf9ftg7@fmredhawks-schedule
-DTSTAMP:20260923T212134Z
+DTSTAMP:20260923T212818Z
 DTSTART;TZID=America/Chicago:20260902T190200
 DTEND;TZID=America/Chicago:20260902T220200
 SUMMARY:RedHawks vs. Goldeyes — L\, 2-6
@@ -976,7 +977,7 @@ DESCRIPTION:Box Score: https://pro.iscorecentral.com/AAPB/games/21bf1266-c4
 END:VEVENT
 BEGIN:VEVENT
 UID:gmueldmf99uz1@fmredhawks-schedule
-DTSTAMP:20260923T212134Z
+DTSTAMP:20260923T212818Z
 DTSTART;TZID=America/Chicago:20260903T190200
 DTEND;TZID=America/Chicago:20260903T220200
 SUMMARY:RedHawks vs. Goldeyes — W\, 3-1
@@ -986,7 +987,7 @@ DESCRIPTION:Box Score: https://pro.iscorecentral.com/AAPB/games/199cdb02-53
 END:VEVENT
 BEGIN:VEVENT
 UID:gmueldmf9nrkz@fmredhawks-schedule
-DTSTAMP:20260923T212134Z
+DTSTAMP:20260923T212818Z
 DTSTART;TZID=America/Chicago:20260904T183000
 DTEND;TZID=America/Chicago:20260904T213000
 SUMMARY:RedHawks @ Milkmen — W\, 4-3
@@ -996,7 +997,7 @@ DESCRIPTION:Box Score: https://pro.iscorecentral.com/AAPB/games/6a26d043-14
 END:VEVENT
 BEGIN:VEVENT
 UID:gmueldmf9u1o7@fmredhawks-schedule
-DTSTAMP:20260923T212134Z
+DTSTAMP:20260923T212818Z
 DTSTART;TZID=America/Chicago:20260905T180000
 DTEND;TZID=America/Chicago:20260905T210000
 SUMMARY:RedHawks @ Milkmen — L\, 2-5
@@ -1006,7 +1007,7 @@ DESCRIPTION:Box Score: https://pro.iscorecentral.com/AAPB/games/f69f64fd-4f
 END:VEVENT
 BEGIN:VEVENT
 UID:gmueldmf9k1s9@fmredhawks-schedule
-DTSTAMP:20260923T212134Z
+DTSTAMP:20260923T212818Z
 DTSTART;TZID=America/Chicago:20260906T130000
 DTEND;TZID=America/Chicago:20260906T160000
 SUMMARY:RedHawks @ Milkmen — W\, 5-1
@@ -1016,7 +1017,7 @@ DESCRIPTION:Box Score: https://pro.iscorecentral.com/AAPB/games/e4acc12b-ae
 END:VEVENT
 BEGIN:VEVENT
 UID:gmueldmf900vy@fmredhawks-schedule
-DTSTAMP:20260923T212134Z
+DTSTAMP:20260923T212818Z
 DTSTART;TZID=America/Chicago:20260907T130000
 DTEND;TZID=America/Chicago:20260907T160000
 SUMMARY:RedHawks @ Milkmen — W\, 2-0
@@ -1026,7 +1027,7 @@ DESCRIPTION:Box Score: https://pro.iscorecentral.com/AAPB/games/e1936574-53
 END:VEVENT
 BEGIN:VEVENT
 UID:gmueldmf9v59c@fmredhawks-schedule
-DTSTAMP:20260923T212134Z
+DTSTAMP:20260923T212818Z
 DTSTART;TZID=America/Chicago:20260909T183000
 DTEND;TZID=America/Chicago:20260909T213000
 SUMMARY:RedHawks vs. Goldeyes — W\, 5-1
@@ -1036,7 +1037,7 @@ DESCRIPTION:WDS Game 1\nBox Score: https://pro.iscorecentral.com/AAPB/games
 END:VEVENT
 BEGIN:VEVENT
 UID:gmueldmf927ba@fmredhawks-schedule
-DTSTAMP:20260923T212134Z
+DTSTAMP:20260923T212818Z
 DTSTART;TZID=America/Chicago:20260911T190000
 DTEND;TZID=America/Chicago:20260911T220000
 SUMMARY:RedHawks @ Goldeyes — W\, 6-5
@@ -1046,7 +1047,7 @@ DESCRIPTION:WDS Game 2\nBox Score: https://pro.iscorecentral.com/AAPB/games
 END:VEVENT
 BEGIN:VEVENT
 UID:gmueldmf95lwx@fmredhawks-schedule
-DTSTAMP:20260923T212134Z
+DTSTAMP:20260923T212818Z
 DTSTART;TZID=America/Chicago:20260914T183000
 DTEND;TZID=America/Chicago:20260914T213000
 SUMMARY:RedHawks vs. Monarchs — L\, 4-6
@@ -1056,7 +1057,7 @@ DESCRIPTION:WDCS Game 1\nBox Score: https://pro.iscorecentral.com/AAPB/game
 END:VEVENT
 BEGIN:VEVENT
 UID:gmueldmf9qn7a@fmredhawks-schedule
-DTSTAMP:20260923T212134Z
+DTSTAMP:20260923T212818Z
 DTSTART;TZID=America/Chicago:20260915T183000
 DTEND;TZID=America/Chicago:20260915T213000
 SUMMARY:RedHawks vs. Monarchs — W\, 5-4
@@ -1066,7 +1067,7 @@ DESCRIPTION:WDCS Game 2\nBox Score: https://pro.iscorecentral.com/AAPB/game
 END:VEVENT
 BEGIN:VEVENT
 UID:gmueldmf9fal7@fmredhawks-schedule
-DTSTAMP:20260923T212134Z
+DTSTAMP:20260923T212818Z
 DTSTART;TZID=America/Chicago:20260917T183500
 DTEND;TZID=America/Chicago:20260917T213500
 SUMMARY:RedHawks @ Monarchs — L\, 3-7
@@ -1076,7 +1077,7 @@ DESCRIPTION:WDCS Game 3\nBox Score: https://pro.iscorecentral.com/AAPB/game
 END:VEVENT
 BEGIN:VEVENT
 UID:gmueldmf9gw0n@fmredhawks-schedule
-DTSTAMP:20260923T212134Z
+DTSTAMP:20260923T212818Z
 DTSTART;TZID=America/Chicago:20260918T183500
 DTEND;TZID=America/Chicago:20260918T213500
 SUMMARY:RedHawks @ Monarchs — W\, 6-3
@@ -1086,7 +1087,7 @@ DESCRIPTION:WDCS Game 4\nBox Score: https://pro.iscorecentral.com/AAPB/game
 END:VEVENT
 BEGIN:VEVENT
 UID:gmueldmf9pw0f@fmredhawks-schedule
-DTSTAMP:20260923T212134Z
+DTSTAMP:20260923T212818Z
 DTSTART;TZID=America/Chicago:20260919T160500
 DTEND;TZID=America/Chicago:20260919T190500
 SUMMARY:RedHawks @ Monarchs — L\, 9-10
@@ -1096,7 +1097,7 @@ DESCRIPTION:WDCS Game 5\nBox Score: https://pro.iscorecentral.com/AAPB/game
 END:VEVENT
 BEGIN:VEVENT
 UID:gmuei41bmb2jx@fmredhawks-schedule
-DTSTAMP:20260923T212134Z
+DTSTAMP:20260923T212818Z
 DTSTART;TZID=America/Chicago:20260921T190500
 DTEND;TZID=America/Chicago:20260921T220500
 SUMMARY:RedHawks @ Goldeyes — L\, 4-11
@@ -1106,7 +1107,7 @@ DESCRIPTION:To Be Made Up 10/3\nBox Score: https://pro.iscorecentral.com/AA
 END:VEVENT
 BEGIN:VEVENT
 UID:gmuecpj0iw0i8@fmredhawks-schedule
-DTSTAMP:20260923T212134Z
+DTSTAMP:20260923T212818Z
 DTSTART;TZID=America/Chicago:20260922T190200
 DTEND;TZID=America/Chicago:20260922T220200
 SUMMARY:RedHawks vs. Explorers — W\, 8-3
@@ -1119,7 +1120,7 @@ DESCRIPTION:★ Family Fare Ticket Deal — Bring a Family Fare receipt of
 END:VEVENT
 BEGIN:VEVENT
 UID:gmuecg1bmffo6@fmredhawks-schedule
-DTSTAMP:20260923T212134Z
+DTSTAMP:20260923T212818Z
 DTSTART;TZID=America/Chicago:20260923T170500
 DTEND;TZID=America/Chicago:20260923T200500
 SUMMARY:RedHawks vs. Canaries
@@ -1131,7 +1132,7 @@ DESCRIPTION:Promo Giveaway Night\n★ T-Shirt Giveaway — First 1\,000 fan
 END:VEVENT
 BEGIN:VEVENT
 UID:gmuehnj2gxa2o@fmredhawks-schedule
-DTSTAMP:20260923T212134Z
+DTSTAMP:20260923T212818Z
 DTSTART;TZID=America/Chicago:20260923T190500
 DTEND;TZID=America/Chicago:20260923T220500
 SUMMARY:RedHawks vs. Canaries (Game 2)
@@ -1143,7 +1144,7 @@ DESCRIPTION:★ Family Fare Ticket Deal — Bring a Family Fare receipt of
 END:VEVENT
 BEGIN:VEVENT
 UID:gmueim24dl7k8@fmredhawks-schedule
-DTSTAMP:20260923T212134Z
+DTSTAMP:20260923T212818Z
 DTSTART;TZID=America/Chicago:20260924T190200
 DTEND;TZID=America/Chicago:20260924T220200
 SUMMARY:RedHawks vs. Canaries
@@ -1155,7 +1156,7 @@ DESCRIPTION:★ Family Fare Ticket Deal — Bring a Family Fare receipt of
 END:VEVENT
 BEGIN:VEVENT
 UID:gmueck0u17t73@fmredhawks-schedule
-DTSTAMP:20260923T212134Z
+DTSTAMP:20260923T212818Z
 DTSTART;TZID=America/Chicago:20260925T160500
 DTEND;TZID=America/Chicago:20260925T190500
 SUMMARY:RedHawks @ Cougars
@@ -1165,7 +1166,7 @@ DESCRIPTION:Watch: https://aabaseball.tv\nLive Stats: https://pro.iscorecen
 END:VEVENT
 BEGIN:VEVENT
 UID:gmueg4wrtjmtm@fmredhawks-schedule
-DTSTAMP:20260923T212134Z
+DTSTAMP:20260923T212818Z
 DTSTART;TZID=America/Chicago:20260925T180500
 DTEND;TZID=America/Chicago:20260925T210500
 SUMMARY:RedHawks @ Cougars (Game 2)
@@ -1175,7 +1176,7 @@ DESCRIPTION:Watch: https://aabaseball.tv\nLive Stats: https://pro.iscorecen
 END:VEVENT
 BEGIN:VEVENT
 UID:gmueiyhwjuxtj@fmredhawks-schedule
-DTSTAMP:20260923T212134Z
+DTSTAMP:20260923T212818Z
 DTSTART;TZID=America/Chicago:20260926T180500
 DTEND;TZID=America/Chicago:20260926T210500
 SUMMARY:RedHawks @ Cougars
@@ -1185,7 +1186,7 @@ DESCRIPTION:WDCS Game 1\nWatch: https://aabaseball.tv\nLive Stats: https://
 END:VEVENT
 BEGIN:VEVENT
 UID:gmueiytqvt6qq@fmredhawks-schedule
-DTSTAMP:20260923T212134Z
+DTSTAMP:20260923T212818Z
 DTSTART;TZID=America/Chicago:20260927T170500
 DTEND;TZID=America/Chicago:20260927T200500
 SUMMARY:RedHawks @ Cougars
@@ -1196,7 +1197,7 @@ DESCRIPTION:WDCS Game 5 (If Necessary)\nWatch: https://aabaseball.tv\nLive
 END:VEVENT
 BEGIN:VEVENT
 UID:gmuejybdmx6mr@fmredhawks-schedule
-DTSTAMP:20260923T212134Z
+DTSTAMP:20260923T212818Z
 DTSTART;TZID=America/Chicago:20260928T190200
 DTEND;TZID=America/Chicago:20260928T220200
 SUMMARY:RedHawks vs. Dogs
