@@ -26,18 +26,20 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:gmuecpj0iw0i8@fmredhawks-schedule
-DTSTAMP:20260923T184050Z
+DTSTAMP:20260923T192016Z
 DTSTART;TZID=America/Chicago:20260922T190200
 DTEND;TZID=America/Chicago:20260922T220200
 SUMMARY:RedHawks vs. Explorers — W\, 8-3
 LOCATION:Newman Outdoor Field\, Fargo\, ND
-DESCRIPTION:Box Score: https://pro.iscorecentral.com/AAPB/scoreboard\nRecap
- : https://www.fmredhawks.com/news/redhawks-force-wdcs-game-5-with-three-ho
- mers-stellar-pitching
+DESCRIPTION:★ Family Fare Ticket Deal — Bring a Family Fare receipt of 
+ $25 or more to the RedHawks Ticket Office and receive two 1B Bleacher tick
+ ets for any Sunday\, Monday or Tuesday RedHawks home game.\nBox Score: htt
+ ps://pro.iscorecentral.com/AAPB/scoreboard\nRecap: https://www.fmredhawks.
+ com/news/redhawks-force-wdcs-game-5-with-three-homers-stellar-pitching
 END:VEVENT
 BEGIN:VEVENT
 UID:gmuecg1bmffo6@fmredhawks-schedule
-DTSTAMP:20260923T184050Z
+DTSTAMP:20260923T192016Z
 DTSTART;TZID=America/Chicago:20260923T190500
 DTEND;TZID=America/Chicago:20260923T220500
 SUMMARY:RedHawks vs. Canaries
@@ -49,7 +51,7 @@ DESCRIPTION:Promo Giveaway Night\n★ T-Shirt Giveaway — First 1\,000 fan
 END:VEVENT
 BEGIN:VEVENT
 UID:gmueck0u17t73@fmredhawks-schedule
-DTSTAMP:20260923T184050Z
+DTSTAMP:20260923T192016Z
 DTSTART;TZID=America/Chicago:20260924T160500
 DTEND;TZID=America/Chicago:20260924T190500
 SUMMARY:RedHawks @ Cougars
@@ -59,7 +61,7 @@ DESCRIPTION:Watch: https://aabaseball.tv\nLive Stats: https://pro.iscorecen
 END:VEVENT
 BEGIN:VEVENT
 UID:gmueg4wrtjmtm@fmredhawks-schedule
-DTSTAMP:20260923T184050Z
+DTSTAMP:20260923T192016Z
 DTSTART;TZID=America/Chicago:20260924T180500
 DTEND;TZID=America/Chicago:20260924T210500
 SUMMARY:RedHawks @ Cougars (Game 2)
