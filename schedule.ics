@@ -26,7 +26,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:gmuei41bmb2jx@fmredhawks-schedule
-DTSTAMP:20260923T202322Z
+DTSTAMP:20260923T202605Z
 DTSTART;TZID=America/Chicago:20260921T190500
 DTEND;TZID=America/Chicago:20260921T220500
 SUMMARY:RedHawks @ Goldeyes — L\, 4-11
@@ -36,7 +36,7 @@ DESCRIPTION:To Be Made Up 10/3\nBox Score: https://pro.iscorecentral.com/AA
 END:VEVENT
 BEGIN:VEVENT
 UID:gmuecpj0iw0i8@fmredhawks-schedule
-DTSTAMP:20260923T202322Z
+DTSTAMP:20260923T202605Z
 DTSTART;TZID=America/Chicago:20260922T190200
 DTEND;TZID=America/Chicago:20260922T220200
 SUMMARY:RedHawks vs. Explorers — W\, 8-3
@@ -49,7 +49,7 @@ DESCRIPTION:★ Family Fare Ticket Deal — Bring a Family Fare receipt of
 END:VEVENT
 BEGIN:VEVENT
 UID:gmuecg1bmffo6@fmredhawks-schedule
-DTSTAMP:20260923T202322Z
+DTSTAMP:20260923T202605Z
 DTSTART;TZID=America/Chicago:20260923T170500
 DTEND;TZID=America/Chicago:20260923T200500
 SUMMARY:RedHawks vs. Canaries
@@ -61,7 +61,7 @@ DESCRIPTION:Promo Giveaway Night\n★ T-Shirt Giveaway — First 1\,000 fan
 END:VEVENT
 BEGIN:VEVENT
 UID:gmuehnj2gxa2o@fmredhawks-schedule
-DTSTAMP:20260923T202322Z
+DTSTAMP:20260923T202605Z
 DTSTART;TZID=America/Chicago:20260923T190500
 DTEND;TZID=America/Chicago:20260923T220500
 SUMMARY:RedHawks vs. Canaries (Game 2)
@@ -73,7 +73,7 @@ DESCRIPTION:★ Family Fare Ticket Deal — Bring a Family Fare receipt of
 END:VEVENT
 BEGIN:VEVENT
 UID:gmueim24dl7k8@fmredhawks-schedule
-DTSTAMP:20260923T202322Z
+DTSTAMP:20260923T202605Z
 DTSTART;TZID=America/Chicago:20260924T190200
 DTEND;TZID=America/Chicago:20260924T220200
 SUMMARY:RedHawks vs. Canaries
@@ -85,7 +85,7 @@ DESCRIPTION:★ Family Fare Ticket Deal — Bring a Family Fare receipt of
 END:VEVENT
 BEGIN:VEVENT
 UID:gmueck0u17t73@fmredhawks-schedule
-DTSTAMP:20260923T202322Z
+DTSTAMP:20260923T202605Z
 DTSTART;TZID=America/Chicago:20260925T160500
 DTEND;TZID=America/Chicago:20260925T190500
 SUMMARY:RedHawks @ Cougars
@@ -95,7 +95,7 @@ DESCRIPTION:Watch: https://aabaseball.tv\nLive Stats: https://pro.iscorecen
 END:VEVENT
 BEGIN:VEVENT
 UID:gmueg4wrtjmtm@fmredhawks-schedule
-DTSTAMP:20260923T202322Z
+DTSTAMP:20260923T202605Z
 DTSTART;TZID=America/Chicago:20260925T180500
 DTEND;TZID=America/Chicago:20260925T210500
 SUMMARY:RedHawks @ Cougars (Game 2)
@@ -105,7 +105,7 @@ DESCRIPTION:Watch: https://aabaseball.tv\nLive Stats: https://pro.iscorecen
 END:VEVENT
 BEGIN:VEVENT
 UID:gmueiyhwjuxtj@fmredhawks-schedule
-DTSTAMP:20260923T202322Z
+DTSTAMP:20260923T202605Z
 DTSTART;TZID=America/Chicago:20260926T180500
 DTEND;TZID=America/Chicago:20260926T210500
 SUMMARY:RedHawks @ Cougars
@@ -115,7 +115,7 @@ DESCRIPTION:WDCS Game 1\nWatch: https://aabaseball.tv\nLive Stats: https://
 END:VEVENT
 BEGIN:VEVENT
 UID:gmueiytqvt6qq@fmredhawks-schedule
-DTSTAMP:20260923T202322Z
+DTSTAMP:20260923T202605Z
 DTSTART;TZID=America/Chicago:20260927T170500
 DTEND;TZID=America/Chicago:20260927T200500
 SUMMARY:RedHawks @ Cougars
@@ -123,5 +123,16 @@ LOCATION:Northwestern Medicine Field • Geneva\, IL
 DESCRIPTION:WDCS Game 5 (If Necessary)\nWatch: https://aabaseball.tv\nLive 
  Stats: https://pro.iscorecentral.com/AAPB/scoreboard\nListen: https://740t
  hefan.com
+END:VEVENT
+BEGIN:VEVENT
+UID:gmuejybdmx6mr@fmredhawks-schedule
+DTSTAMP:20260923T202605Z
+DTSTART;TZID=America/Chicago:20260928T190200
+DTEND;TZID=America/Chicago:20260928T220200
+SUMMARY:RedHawks vs. Dogs
+LOCATION:Newman Outdoor Field • Fargo\, ND
+DESCRIPTION:★ Postgame Fireworks — Stick around after the game for a fi
+ reworks show thanks to CI Sport!\nBuy Tickets: https://www.fmredhawks.com/
+ buytickets
 END:VEVENT
 END:VCALENDAR
