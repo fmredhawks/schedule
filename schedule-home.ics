@@ -25,8 +25,19 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:gmuecpj0iw0i8@fmredhawks-schedule
+DTSTAMP:20260923T170335Z
+DTSTART;TZID=America/Chicago:20260922T190200
+DTEND;TZID=America/Chicago:20260922T220200
+SUMMARY:RedHawks vs. Explorers — W\, 8-3
+LOCATION:Newman Outdoor Field\, Fargo\, ND
+DESCRIPTION:Box Score: https://pro.iscorecentral.com/AAPB/scoreboard\nRecap
+ : https://www.fmredhawks.com/news/redhawks-force-wdcs-game-5-with-three-ho
+ mers-stellar-pitching
+END:VEVENT
+BEGIN:VEVENT
 UID:gmuecg1bmffo6@fmredhawks-schedule
-DTSTAMP:20260923T165841Z
+DTSTAMP:20260923T170335Z
 DTSTART;TZID=America/Chicago:20260923T190500
 DTEND;TZID=America/Chicago:20260923T220500
 SUMMARY:RedHawks vs. Canaries
